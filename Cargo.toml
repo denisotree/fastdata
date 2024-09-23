@@ -1,0 +1,11 @@
+[package]
+name = "fastdata"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.28.1"
+crossterm = "0.25.0"
+csv = "1.1"
+strum = "0.24"
+strum_macros = "0.24"
